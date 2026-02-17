@@ -58,5 +58,20 @@ The difference between them is 111.
 
 # Solution
 
+```sql
+
+WITH scores AS(
+	SELECT
+		*,
+		(assignment1 + assignment2 + assignment3) AS score_per_Id
+	FROM scores
+	GROUP BY student_id
+)
+
+SELECT
+	MAX(score_per_Id) - MIN(score_per_Id) AS difference_in_score
+FROM scores
+
+```
 
 
