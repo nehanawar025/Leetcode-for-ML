@@ -7,7 +7,7 @@
 | 1193 | Monthly Transactions I | [Code](https://github.com/nehanawar025/Leetcode-for-ML/blob/main/Medium/1193-Monthly-Transactions-I.md) |
 | 1907 | Count Salary Categories | [Code](https://github.com/nehanawar025/Leetcode-for-ML/blob/main/Medium/1907-Count-Salary-Categories.md) |
 | 2989 | Class Performance | [Code](https://github.com/nehanawar025/Leetcode-for-ML/blob/main/Medium/2989-Class-Performance.md) |
-|  |  | [Code]() |
+| 176 | Second Highest Salary | [Code](https://github.com/nehanawar025/Leetcode-for-ML/blob/main/Medium/176-Second-Highest-Salary.md) |
 |  |  | [Code]() |
 |  |  | [Code]() |
 |  |  | [Code]() |
